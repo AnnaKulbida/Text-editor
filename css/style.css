@@ -1,0 +1,118 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Georgia, serif;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #000000;
+  background-color: #464f54;
+}
+
+.field-wrapper {
+  background-color: #181818;
+  margin-left:auto;
+  margin-top: 3%;
+  padding: 25px 0 0 20px;
+  width: 70%;
+  height: 155px;
+  box-sizing: border-box;
+  position: relative;
+}
+
+
+.form-label {
+  font-family: "Proxima Nova", Arial, sans-serif;
+  font-size: 15px;
+  letter-spacing:5px;
+  line-height: 1,2;
+  color: #777777;
+  margin-left: 40px;
+}
+
+.form-input {
+  font-family: "Playfair Display", Times New Roman, serif;
+  font-size: 48px;
+  width: 95.5%;
+  background-color: #181818;
+  color: #fefefe;
+  border: none;
+  border-bottom: 2px solid #303030;
+  margin-left: 40px;
+}
+
+.text-center{
+  margin: 0 auto;
+  width: 90%;
+  background-color: #fefefe;
+  margin-top: -100px;
+  box-shadow: 0 0 5px;
+}
+
+.article  {
+  margin: 0 auto;
+  width: 70%;
+  background-color: #fefefe;
+  padding: 100px 0px;
+}
+
+.article-text {
+  font-size: 27px;
+}
+
+.header-text{
+  font-family: "Proxima Nova", Arial, sans-serif;
+  font-size: 20px;
+  color: #b5b5b5;
+  letter-spacing:5px;
+}
+
+.article-title{
+  font-family: "Futura PT" , Arial, sans-serif;
+  font-size: 78px;
+  color: #2a2a2a;
+  letter-spacing:3px;
+}
+
+.article-text-intro {
+  font-style: italic;
+  font-size: 30px;
+  color: #8f8f8f;
+  margin-top: -20px;
+  margin-bottom: 50px;
+}
+
+.text-italic {
+  font-style: italic;
+}
+
+input [type="text"] {
+  color: #fefefe;
+  text-decoration: none;
+  color: #fefefe;
+  outline: 0;
+}
+
+.btn-wrapper {
+  margin-left:auto;
+  width: 60%;
+  background-color: #fbc02d;
+  position: relative;
+}
+
+button{
+  vertical-align: top;
+  height: 50px;
+  width: 50px;
+  border: none;
+  background-color: #fbc02d;
+  /*outline: none;*/
+}
+
+button:hover{
+  cursor: pointer;
+}
+
+
